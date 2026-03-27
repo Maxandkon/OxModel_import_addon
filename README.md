@@ -27,3 +27,7 @@ Known issues:
 2. The add-on cannot apply a material without manually matching it to the .Palette
 3. The add-on was made exclusively for Bledner version 4.1
 4. The Armature will not have Auti IK or X-Axis Mirror 
+
+# Archive (Готовий архів)
+Archive with already exported key models
+> [https://mega.nz/folder/zR1mVYbS#pC3Mnw2vyCpr-MtV-9jB4g](https://mega.nz/folder/zR1mVYbS#pC3Mnw2vyCpr-MtV-9jB4g)
