@@ -20,7 +20,7 @@ Add-on for **Blender 4.1** for exporting **.OxModel** files from the game **Star
 
 All .OxModel files are located in `\Star Control - Origins\Assets\CookedData`
 
-The corresponding textures in .dds format can be found in `\Star Control - Origins\Assets\CookedData\`; materials are stored in .Palette files, unfortunately, the models do not have direct references to the materials, but if you move the .OxModel file to the corresponding folder with .Palette and rename it accordingly (so that the names match), the mod will be able to generate the corresponding material
+The corresponding textures in .dds format can be found in `\Star Control - Origins\Assets\CookedData\`; materials are stored in .Palette files, unfortunately, the models do not have direct references to the materials, but if you move the .OxModel file to the corresponding folder with .Palette and rename it accordingly (so that the names match), the addon will be able to generate the corresponding material
 
 Known issues:
 1. The add-on does not split models by material; there are few models in the game that require different materials for different parts of the mesh, but in such cases, you will have to split them manually, ie: Ctrl+M -> L on the corresponding fragment -> Assign to a new material
